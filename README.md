@@ -2,7 +2,8 @@
 
 Equações diferenciais parciais numericas é o ramo da analise numerica que estuda a solução numerica de equações diferenciais parciais (EPDs)
 
-## Metodo das diferenças finitas são reprensentadas´por seus valores em detremindaos pontos da grade e as derivadas são aproximadaspor meio de diferenças nesses valores.
+## Metodo das diferenças finitas 
+são reprensentadas´por seus valores em detremindaos pontos da grade e as derivadas são aproximadas por meio de diferenças nesses valores.
 
 ## Codigo
 
