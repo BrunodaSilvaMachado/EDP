@@ -119,7 +119,7 @@ int main()
 
 ```
 
-Este codigo e os demais usados no trbalho esta disponiveis na pasta set12.1 deste repositorio
+Este codigo e os demais usados no trbalho esta disponiveis na pasta exercicios deste repositorio
 
 
 # Resolução dos exercicios do Burden 9 edição
